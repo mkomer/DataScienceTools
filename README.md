@@ -1,3 +1,3 @@
 # DataScienceTools
 Data Work and Tool Testing | 
-I will be posting random work from IBM Data Science Professional Certification here
+I will be posting random project and lab work here
